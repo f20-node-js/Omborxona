@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "mahsulot": "qovun",
+            "soni": 4
+        },
+        {
+            "id": 2,
+            "mahsulot": "tarvuz",
+            "soni": 6
+        }
+    ]
+}
